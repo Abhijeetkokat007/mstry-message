@@ -130,8 +130,8 @@ function page() {
                 </Form>
                 <p>
                     Already a member?{' '}
-                    <Link href="/sign-in" className="text-blue-600 hover:text-blue-800">
-                        Sign in
+                    <Link href="/sign-up" className="text-blue-600 hover:text-blue-800">
+                        Sign up
                     </Link>
                 </p>
             </div>
